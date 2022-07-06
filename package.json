@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giabaro23/nodejs-blog.git"
+  },
+  "keywords": [
+    "giabao",
+    "blog",
+    "blog",
+    "nodejs"
+  ],
+  "author": "giabaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giabaro23/nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/giabaro23/nodejs-blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
